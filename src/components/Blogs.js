@@ -8,7 +8,7 @@ import img4 from '../Assets/blog4.jpg';
 import img5 from '../Assets/blog5.jpg';
 import img6 from '../Assets/blog6.jpg';
 
-const Blogs = () => {
+const BlogsPage = () => {
   return (
     <div className="min-h-screen flex flex-col justify-center lg:px-32 px-5 pt-24">
       <div className="flex flex-col items-center lg:flex-row justify-between">
@@ -38,4 +38,4 @@ const Blogs = () => {
   );
 };
 
-export default Blogs;
+export default BlogsPage;

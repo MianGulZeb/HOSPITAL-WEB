@@ -7,7 +7,7 @@ function Home() {
       style={{ backgroundImage: `url(${bg})` }} >
       
       <div className="w-full lg:space-y-5 mt-10">
-        <h1 className="text-4xl font-bold leading-tight text-blue-600 ">
+        <h1 className="text-4xl font-bold leading-tight text-blue-600 animate-bounce">
           Empowering health choices for a vibrant life your trusted.
         </h1>
         <p>
